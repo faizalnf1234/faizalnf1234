@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Faizal Nurul Firdaus</h1>
+<h3 align="center">Website Developer And Technical Support</h3>
 
-<!--
-**faizalnf1234/faizalnf1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizalnf1234&label=Profile%20views&color=0e75b6&style=flat" alt="faizalnf1234" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Flask,Django,CI4,Laravel,Vue,React,Javascript Fundamental, And PythonML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://faizalportofolio-dev.vercel.app](https://faizalportofolio-dev.vercel.app)
+
+- 📫 How to reach me **faizaln77izaus@gmail.com**
+
+- ⚡ Unique Fact **I think im programmer who have courage taking risk in unstable project because im looking to get more experiences.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizalnf1234&show_icons=true&locale=en&layout=compact" alt="faizalnf1234" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizalnf1234&show_icons=true&locale=en" alt="faizalnf1234" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalnf1234&" alt="faizalnf1234" /></p>

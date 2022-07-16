@@ -11,10 +11,6 @@
 
 - ⚡ Unique Fact **I think im programmer who have courage taking risk in unstable project because im looking to get more experiences.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizalnf1234&show_icons=true&locale=en&layout=compact" alt="faizalnf1234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizalnf1234&show_icons=true&locale=en" alt="faizalnf1234" /></p>

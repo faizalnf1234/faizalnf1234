@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faizal Nurul Firdaus</h1>
 <h3 align="center">Website Developer and Technical Support</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=faizalnf1234&label=Profile%20views&color=0e75b6&style=flat" alt="faizalnf1234" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=faizalnf1234&label=Profile%20views&color=0e75b6&style=flat" alt="faizalnf1234" /></p> -->
+![Profile Views](https://komarev.com/ghpvc/?username=faizalnf1234)
 
 - 🌱 I’m currently learning **Flask,Django,CI4,Laravel,Vue,React,Javascript Fundamental, And PythonML**
 

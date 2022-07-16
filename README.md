@@ -12,6 +12,6 @@
 - ⚡ Unique Fact **I think im programmer who have courage taking risk in unstable project because im looking to get more experiences.**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizalnf1234&show_icons=true&locale=en&layout=compact" alt="faizalnf1234" /</p>
-[![FaizalNF GitHub stats](https://github-readme-stats.vercel.app/api?username=faizalnf1234)](https://github.com/anuraghazra/github-readme-stats)
+[![FaizalNF GitHub stats](https://github-readme-stats.vercel.app/api?username=faizalnf1234)](https://github.com/anuraghazra/github-readme-stats)]
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizalnf1234&show_icons=true&locale=en" alt="faizalnf1234" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizalnf1234&" alt="faizalnf1234" /></p>

@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask,Django,CI4,Laravel,Vue,React,Javascript Fundamental, And PythonML**
 
-- 👨‍💻 Builded non Open-sourced projects are available at [https://faizalportofolio-dev.vercel.app](https://faizalportofolio-dev.vercel.app)
+- 👨‍💻 Builded non Open-sourced projects are available at [https://faizalportfolio-dev.vercel.app](https://faizalportofolio-dev.vercel.app)
 
 - 📫 How to reach me **faizaln77izaus@gmail.com**
 

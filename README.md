@@ -15,6 +15,8 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizalnf1234&show_icons=true&locale=en&layout=compact" alt="faizalnf1234" /</p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizalnf1234&show_icons=true&locale=en" alt="faizalnf1234" /></p> -->
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizalnf1234)](https://github.com/anuraghazra/github-readme-stats)
 [![Faizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizalnf1234)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizalnf1234)](https://git.io/streak-stats)
+-->

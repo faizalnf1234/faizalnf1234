@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **faizaln77izaus@gmail.com**
 
-- ⚡ Unique Fact **I think im programmer who have courage taking risk in unstable project because im looking to get more experiences.**
+- ⚡ Unique Fact **I think im programmer who maximize all geographical benefit.Have 2 side style when have infinite wifi and scarce internet connection**
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizalnf1234&show_icons=true&locale=en&layout=compact" alt="faizalnf1234" /</p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizalnf1234&show_icons=true&locale=en" alt="faizalnf1234" /></p> -->
